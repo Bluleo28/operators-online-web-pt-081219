@@ -1,5 +1,5 @@
 def unsafe?
-  answer=true
+  unsafe=true(60)
 end
 def unsafe?
   answer=true
