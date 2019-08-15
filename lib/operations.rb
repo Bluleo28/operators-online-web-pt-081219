@@ -1,15 +1,11 @@
-def 
-  #unsafe?
-  =true(79)
+def unsafe?(speed) 
+if speed < 40 || speed > 60
+  return true 
+else 
+  return false 
 end
-  =true(40)
-def
-  =true(35)
-end
-def 
-  =false(35)
-end
-	#not_safe?=true(79)
-  =true(35)
+end 
 
-  =false(40)
+def not_safe?(speed)
+  speed < 40 || speed > 60 ? true : false 
+end 
