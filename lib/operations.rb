@@ -1,18 +1,15 @@
 def 
-  #unsafe?=true(79)
+  #unsafe?
+  =true(79)
 end
+  =true(40)
 def
-  #unsafe?=true(35)
+  =true(35)
 end
 def 
-  #unsafe?=false(35)
+  =false(35)
 end
-def 
 	#not_safe?=true(79)
-end
-def 
-  #not_safe?=true(35)
-end
-def
-  #not_safe?=false(40)
-end
+  =true(35)
+
+  =false(40)
