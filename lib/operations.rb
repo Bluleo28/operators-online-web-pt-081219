@@ -8,7 +8,7 @@ def
   #unsafe?=(35)
 end
 def 
-	#not_safe?=(70)
+	#not_safe?=(50)
 end
 def 
   #not_safe?=(30)
