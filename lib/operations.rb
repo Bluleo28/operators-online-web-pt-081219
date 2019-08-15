@@ -1,6 +1,5 @@
 def unsafe?
-  true
-
+  answer=true
 end
 
 
