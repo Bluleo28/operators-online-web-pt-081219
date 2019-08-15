@@ -5,10 +5,10 @@ def
   #unsafe=true(35)
 end
 def 
-  #unsafe?=(35)
+  #unsafe?=true(35)
 end
 def 
-	#not_safe?=(79)
+	#not_safe?=true(79)
 end
 def 
   #not_safe?=(35)
