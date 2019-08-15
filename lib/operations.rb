@@ -5,7 +5,7 @@ def
   #unsafe?=true(35)
 end
 def 
-  #unsafe?=false(50)
+  #unsafe?=false(35)
 end
 def 
 	#not_safe?=true(79)
@@ -14,5 +14,5 @@ def
   #not_safe?=true(35)
 end
 def
-  #not_safe?=false(50)
+  #not_safe?=false(40)
 end
