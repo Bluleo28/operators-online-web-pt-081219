@@ -11,8 +11,8 @@ def
 	#not_safe?=true(79)
 end
 def 
-  #not_safe?=(35)
+  #not_safe?=true(35)
 end
 def
-  #not_safe?=(50)
+  #not_safe?=false(50)
 end
