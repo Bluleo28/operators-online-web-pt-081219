@@ -16,5 +16,3 @@ end
 def
   #not_safe?=(50)
 end
-
-
